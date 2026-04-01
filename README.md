@@ -1,6 +1,6 @@
 # Claude Code Documentation
 
-Welcome to the documentation for **Claude Code** (`claude-code-main`). This repository contains the source code for an agentic coding assistant CLI developed by Anthropic, which brings the conversational abilities of Claude natively into your terminal environment.
+Welcome to the documentation for **Claude Code** (`claude-code-main`). This repository contains the documentation for an agentic coding assistant CLI developed by Anthropic, which brings the conversational abilities of Claude natively into your terminal environment.
 
 ## Overview
 
@@ -84,13 +84,13 @@ The codebase contains **1,884+ TypeScript/TSX files** organized across **101 com
         │                      │    Ink / React UI    │
         │                      │                      │
         │                      │  ┌─────────────────┐ │
-        │                      │  │ App.tsx         │  │
-        └──────────────────────┤  │  ├─ StatusLine  │  │
-                               │  │  ├─ Messages    │  │
-                               │  │  ├─ ToolApproval│  │
-                               │  │  ├─ Dialogs     │  │
-                               │  │  └─ TextInput   │  │
-                               │  └─────────────────┘  │
+        │                      │  │ App.tsx         │ │
+        └──────────────────────┤  │  ├─ StatusLine  │ │
+                               │  │  ├─ Messages    │ │
+                               │  │  ├─ ToolApproval│ │
+                               │  │  ├─ Dialogs     │ │
+                               │  │  └─ TextInput   │ │
+                               │  └─────────────────┘ │
                                └──────────────────────┘
 
 
