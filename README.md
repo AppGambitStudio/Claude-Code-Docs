@@ -215,6 +215,11 @@ The codebase contains **1,884+ TypeScript/TSX files** organized across **101 com
 11. **[Planning, Tasks & IDE Integration](./planning_tasks_and_ide.md)**
     Planning mode workflow, git worktree isolation, the task system (CRUD, dependencies, ownership), IDE integration (VS Code, JetBrains, Chrome extension), and context management.
 
+### Deep Dives
+
+12. **[Unique & Novel Architectural Patterns](./unique_patterns.md)**
+    The patterns that make this codebase different: async generator query loops, prompt cache-sharing forks, AI-powered permission classification, speculative execution with overlay filesystems, two-layer microcompaction, AsyncLocalStorage agent isolation, and more.
+
 ## Reference Links
 
 - [Model Context Protocol (MCP) Specification](https://modelcontextprotocol.io)
